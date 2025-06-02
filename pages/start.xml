@@ -9,6 +9,9 @@
   />
 
   <agent
+    bg_image= ""
+
+  <agent
     id="next_page_text"
     text="Proxima Pagina"
     animation="glitch"
