@@ -1,11 +1,11 @@
 <page id="start" bg_image="" bg_music="osts-vilo.mp3">
   <agent
-    id="teste"
+    id="titulo"
     text="D>E>A>T>H>M>E>T>A>L"
     color="white"
     x="center"
     y="5"
-    font-size="65"
+    font-size="42.8"
   />
 
   <agent
